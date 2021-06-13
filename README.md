@@ -40,9 +40,6 @@ Java로는 할 수 있는것이 없었고, 이후 C언어를 배우면서 게임
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://github.com/DevGolbang/DevGolbang/WTF.jpg" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  

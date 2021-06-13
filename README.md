@@ -41,7 +41,7 @@ Java로는 할 수 있는것이 없었고, 이후 C언어를 배우면서 게임
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/DevGolbang/DevGolbang/WTF.jpg" align="center" style="width: 100%" />
 </div>  
 
 
@@ -116,12 +116,3 @@ Java로는 할 수 있는것이 없었고, 이후 C언어를 배우면서 게임
 
 ### Please Watch My Profile...!  
 ![Profile views counter](https://komarev.com/ghpvc/?username=DevGolbang&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

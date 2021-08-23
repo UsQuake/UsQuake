@@ -32,7 +32,7 @@ Java로는 할 수 있는것이 없었고, 이후 C언어를 배우면서 게임
 - 🔭 I’m currently working on [N-Gine](https://github.com/knu21-coders/N-Gine)👯  
   
 
-- 🌱 I’m currently learning [Ray-Tracing](https://raytracing.github.io/books/RayTracingTheNextWeek.html) 💡and [OSDev](https://github.com/DevGolbang/GolbangOS)  
+- 🌱 I’m currently learning [Ray-Tracing](https://raytracing.github.io/books/RayTracingTheNextWeek.html) 💡and [DirectX11](https://m.blog.naver.com/sorkelf/40172400532)  
   
 
 -  🤷S/W특기자/학종 전형에 관심 있거나 궁금한 것들 질문주세여🤔  

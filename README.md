@@ -77,7 +77,7 @@ Java로는 할 수 있는것이 없었고, 이후 C언어를 배우면서 게임
 
 
 
-### 최애 @@  
+### 최애
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  

@@ -50,7 +50,7 @@ Java로는 할 수 있는것이 없었고, 이후 C언어를 배우면서 게임
 ## Languages and Tools  
 
 
-### 단순히 아는것들  
+### 관심분야  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  

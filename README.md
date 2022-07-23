@@ -18,11 +18,7 @@
 
 
 ### 만나서 반갑습니다!  
-저는 송주현이라고합니다😝😝 어릴적 Minecraft게임의 플러그인을 만들며 Java를 접했습니다.
-Java로는 할 수 있는것이 없었고, 이후 C언어를 배우면서 게임🎮을 만들어보자는 생각을 했습니다! 
-그래서 C++까지 배우기 시작했고, 이후 게임을 만들기 위해 DirectX를 배우다가 게임 개발을 위해서는 컴퓨터를 잘 활용해야 한다는 것을 깨닫고  OS, 자료구조, 저수준(low-level)과 같은 컴퓨터공학💻에 관심을 두다가 최근에 Modern C++, Rust, Ray-Tracing, .Net(C#), DeepLearning등으로 관심 분야를 넓히고 있습니다!🆕  
-  
-
+저는 송주현이라고 합니다😝. 게임을 만들기 위해 DirectX를 배우다가 게임 개발을 위해서는 컴퓨터를 잘 활용해야 한다는 것을 깨닫고  OS, 자료구조, 저수준(low-level)과 같은 컴퓨터공학💻에 관심을 두다가 최근에 Modern C++, Rust, Ray-Tracing, .Net(C#), DeepLearning등으로 관심 분야를 넓히고 있습니다!🆕  
 <br/>  
 
 
@@ -53,26 +49,17 @@ Java로는 할 수 있는것이 없었고, 이후 C언어를 배우면서 게임
 ### 관심분야  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 </div>  
 
 

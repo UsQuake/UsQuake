@@ -18,7 +18,7 @@
 
 
 ### 만나서 반갑습니다!  
-저는 송주현이라고 합니다😝. 게임을 만들기 위해 DirectX를 배우다가 게임 개발을 위해서는 컴퓨터를 잘 활용해야 한다는 것을 깨닫고  OS, 자료구조, 저수준(low-level)과 같은 컴퓨터공학💻에 관심을 두다가 최근에 Modern C++, Rust, Ray-Tracing, .Net(C#), DeepLearning등으로 관심 분야를 넓히고 있습니다!🆕  
+저는 송주현이라고 합니다😝. 게임을 만들기 위해 DirectX를 배우다가 게임 개발을 위해서는 컴퓨터 시스템에 관한 이해가 필수적임을 느꼈고, 최근에 Assembly, Modern C++, Rust, Ray-Tracing, .Net(C#), DeepLearning등으로 관심 분야를 넓히고 있습니다!🆕  
 <br/>  
 
 
@@ -32,10 +32,6 @@
   
 
 -  🤷S/W특기자/학종 전형에 관심 있거나 궁금한 것들 질문주세여🤔  
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  

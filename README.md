@@ -25,13 +25,13 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [NGine-Dx11](https://github.com/knu21-coders/N-Gine)👯  
+- 🔭 [Vulkan-Lerning-Curve용 프로젝트](https://github.com/DevGolbang/vulkan_tutorial)와 [RT-In-OneWeekend 외부 병렬화 라이브러리 없는 러스트 버젼](https://github.com/DevGolbang/RayTracingInOneWeekend-Rust)에 집중 하고 있습니다.
   
 
-- 🌱 I’m currently learning [Ray-Tracing](https://raytracing.github.io/books/RayTracingTheNextWeek.html) 💡and [Vulkan](https://vulkan-tutorial.com/)  
+- 🌱 [Ray-Tracing](https://raytracing.github.io/books/RayTracingTheNextWeek.html) 과 [Vulkan](https://vulkan-tutorial.com/) 학습 중~  
   
 
--  🤷S/W특기자/학종 전형에 관심 있거나 궁금한 것들 질문주세여🤔  
+- 🤷 S/W특기자/학종 전형에 관심 있거나 궁금한 것들 질문주세여🤔  
 
 
 </td></tr></table>  
@@ -42,7 +42,7 @@
 ## Languages and Tools  
 
 
-### 관심분야  
+### 관심있는 거
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  

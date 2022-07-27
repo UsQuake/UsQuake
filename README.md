@@ -18,7 +18,7 @@
 
 
 ### 만나서 반갑습니다!  
-저는 송주현이라고 합니다. 게임을 만들기 위해 DirectX를 배우다가 게임 개발을 위해서는 컴퓨터 시스템에 관한 이해가 필수적임을 느꼈고, 최근에 Assembly, Modern C++, Rust, Ray-Tracing, .Net(C#), DeepLearning, Vulkan등으로 관심 분야를 넓히고 있습니다! 
+저는 송주현이라고 합니다. <a href="https://opgc.me/#/users/DevGolbang" target="_blank"><img src="https://api.opgc.me/githubs/users/DevGolbang/tag/?theme=basic" /></a>게임을 만들기 위해 DirectX를 배우다가 게임 개발을 위해서는 컴퓨터 시스템에 관한 이해가 필수적임을 느꼈고, 최근에 Assembly, Modern C++, Rust, Ray-Tracing, .Net(C#), DeepLearning, Vulkan등으로 관심 분야를 넓히고 있습니다! 
 <br/>  
 
 

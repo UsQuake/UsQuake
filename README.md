@@ -2,7 +2,7 @@
   
   * [Vulkan-Lerning-Curve](https://github.com/DevGolbang/vulkan_tutorial)
   * [Rust Impl. of RT-In-OneWeekend Without External Lib](https://github.com/DevGolbang/RayTracingInOneWeekend-Rust)
-  * [Impl. Of Regression In Raw C-style Pointer]() 
+  * [Impl. Of Regression In Raw C-style Pointer](https://github.com/DevGolbang/Golbang-DNN) 
 
 ## Resources
   

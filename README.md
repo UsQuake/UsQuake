@@ -1,3 +1,5 @@
+### 메타버스로 항해중인 송주현입니다!
+
 ## 개발자의 바다, Devocean에 놀러오세요!
 
 <div align="left"> 
@@ -12,9 +14,6 @@
   
 
 - 🌱 [Ray-Tracing](https://raytracing.github.io/books/RayTracingTheNextWeek.html) 과 [Vulkan](https://vulkan-tutorial.com/) 학습 중~  
-  
-
-- 🤷 S/W특기자/학종 전형에 관심 있거나 궁금한 것들 질문주세여🤔  
 
 
 </td></tr></table>  

@@ -7,7 +7,7 @@
 <a href="https://instagram.com/wannabedev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/DevGolbang" target="_blank">
+<a href="https://devocean.sk.com/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/songjuhyeon3" target="_blank">
@@ -69,25 +69,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DevGolbang&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGolbang&hide_border=true&layout=compact" align="right" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
   
 
 <br/>  
-
-
-
-### Please Watch My Profile...!  
-![Profile views counter](https://komarev.com/ghpvc/?username=DevGolbang&&style=flat-square)  

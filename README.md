@@ -1,9 +1,17 @@
 ## Lang
+
 <div align="Left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
+<a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C# Tutorial In MSDN" height="100" />
+  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C doesn't have official docs" height="100" />  
+  
+<a href="https://isocpp.org/get-started" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++ Docs In ISO-CPP" height="100" />  
+  
+<a href="https://doc.rust-lang.org/stable/book/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust Docs In Rust " height="100" />  
+  
 </div>  
   
 ## Projects  

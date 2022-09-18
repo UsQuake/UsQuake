@@ -1,7 +1,7 @@
 ### 개발자의 바다, Devocean에 놀러오세요!
 <table><tr><td valign="top" width="50%">
   <a href="https://devocean.sk.com/" target="_blank">
-  <img src="devocean.jpg" />
+  <img src="devocean.jpg" width=100 height=17/>
   </a>
 </td></tr></table> 
 

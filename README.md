@@ -6,16 +6,14 @@
 <a href="https://instagram.com/wannabedev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
- 
-<a href="https://devocean.sk.com/" target="_blank">
-<img src="devocean.jpg" />
-</a>
 
 
-### 롤티어도 아이언, 깃도 아이언인 송주현이라고 합니다.
-<a href="https://opgc.me/#/users/DevGolbang" target="_blank"><img src="https://api.opgc.me/githubs/users/DevGolbang/tag/?theme=basic" /></a>
-<br/>  
-
+### 개발자의 바다, Devocean에 놀러오세요!
+<table><tr><td valign="top" width="50%">
+  <a href="https://devocean.sk.com/" target="_blank">
+  <img src="devocean.jpg" />
+  </a>
+</td></tr></table> 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">

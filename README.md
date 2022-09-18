@@ -1,3 +1,9 @@
+## Projects
+  
+  * [Vulkan-Lerning-Curve](https://github.com/DevGolbang/vulkan_tutorial)
+  * [Rust Impl. of RT-In-OneWeekend Without External Lib](https://github.com/DevGolbang/RayTracingInOneWeekend-Rust)
+  * [Impl. Of Regression In Raw C-style Pointer]()
+  
 ## Lang
 
 <div align="Left">  
@@ -15,19 +21,6 @@
   
 </div>  
 
-## Education
-
-<div align="left" >
-  
-<a href="https://pocu.academy/ko" target="_blank">
-<img style="padding: 100 px" src="pocu_logo.png" width=190 height=51 />
-
-
-<a href="https://knu.ac.kr/" target="_blank">
-<img style="padding: 100 px" src="KNU_LOGO.png" width=190 height=51 />
-  
- </div> 
-  
 ## Resources
   
   * ### Design & Frontend
@@ -63,20 +56,28 @@
     - 쉽게 배우는 운영체제
     - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
   
+## Education
 
-    
-
-## Projects
+<div align="left" >
   
-  * [Vulkan-Lerning-Curve](https://github.com/DevGolbang/vulkan_tutorial)
-  * [Rust Impl. of RT-In-OneWeekend Without External Lib](https://github.com/DevGolbang/RayTracingInOneWeekend-Rust)
-  * [Impl. Of Regression In Raw C-style Pointer]()
-  
+<a href="https://pocu.academy/ko" target="_blank">
+<img style="padding: 100 px" src="pocu_logo.png" width=190 height=51 />
 
+
+<a href="https://knu.ac.kr/" target="_blank">
+<img style="padding: 100 px" src="KNU_LOGO.png" width=190 height=51 />
+
+</div> 
+  
   
 ## Community
 
 <div align="left"> 
+  
 <a href="https://devocean.sk.com/" target="_blank">
 <img src="devocean.jpg" width=300 height=51/>
- </div> 
+  
+</div> 
+    
+
+

@@ -1,14 +1,10 @@
-## Community
-
-<div align="left"> 
-<a href="https://devocean.sk.com/" target="_blank">
-<img src="devocean.jpg" width=300 height=51 style="margin: 50px" />
-
-## Academy
-  
-<a href="https://pocu.academy/ko" target="_blank">
-<img src="pocu_logo.png" width=190 height=51 style="margin: 50px" />
-</div> 
+## Lang
+<div align="Left">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
+</div>  
   
 ## Projects  
   
@@ -32,16 +28,26 @@
   
   * ### Develop
   
-    - [POCU Academy](https://pocu.academy/ko)
     - C++ 최적화
     - C++ Primer Plus (6th Edition)
     - Refactoring: Improving the Design of Existing Code (2nd Edition)
   
-## Lang
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
-</div>  
+## Education
 
+<div align="left" >
+  
+<a href="https://pocu.academy/ko" target="_blank">
+<img style="padding: 100 px" src="pocu_logo.png" width=190 height=51 />
+
+
+<a href="https://knu.ac.kr/" target="_blank">
+<img style="padding: 100 px" src="KNU_LOGO.png" width=190 height=51 />
+  
+ </div> 
+  
+## Community
+
+<div align="left"> 
+<a href="https://devocean.sk.com/" target="_blank">
+<img src="devocean.jpg" width=300 height=51/>
+ </div> 

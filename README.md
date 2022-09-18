@@ -4,9 +4,9 @@
 <a href="https://devocean.sk.com/" target="_blank">
 <img src="devocean.jpg" width=300 height=51 style="margin: 30px" />
   <a href="https://devocean.sk.com/" target="_blank">
-<img src="KNU_LOGO.jpg" width=190 height=51 style="margin: 30px" />
+<img src="KNU_LOGO.png" width=190 height=51 style="margin: 30px" />
     <a href="https://devocean.sk.com/" target="_blank">
-<img src="KNU_LOGO.jpg" width=190 height=51 style="margin: 30px" />
+<img src="pocu_logo.png" width=190 height=51 style="margin: 30px" />
 </div> 
 
 ## Projects  

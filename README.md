@@ -2,11 +2,13 @@
 
 <div align="left"> 
 <a href="https://devocean.sk.com/" target="_blank">
-<img src="devocean.jpg" width=300 height=51 style="margin: 30px" />
-  <a href="https://devocean.sk.com/" target="_blank">
-<img src="KNU_LOGO.png" width=190 height=51 style="margin: 30px" />
-    <a href="https://devocean.sk.com/" target="_blank">
-<img src="pocu_logo.png" width=190 height=51 style="margin: 30px" />
+<img src="devocean.jpg" width=300 height=51 style="margin: 50px" />
+
+<a href="https://devocean.sk.com/" target="_blank">
+<img src="KNU_LOGO.png" width=190 height=51 style="margin: 50px" />
+
+<a href="https://pocu.academy/ko" target="_blank">
+<img src="pocu_logo.png" width=190 height=51 style="margin: 50px" />
 </div> 
 
 ## Projects  

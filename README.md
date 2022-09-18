@@ -1,11 +1,9 @@
-### 개발자의 바다, Devocean에 놀러오세요!
-<table><tr><td valign="top" width="50%">
-  
+## 개발자의 바다, Devocean에 놀러오세요!
+
+<div align="left"> 
 <a href="https://devocean.sk.com/" target="_blank">
 <img src="devocean.jpg" width=300 height=51/>
-</a>
-  
-</td></tr></table> 
+</div> 
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">

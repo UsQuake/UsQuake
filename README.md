@@ -6,14 +6,14 @@
 <a href="https://instagram.com/wannabedev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://devocean.sk.com/" target="_blank">
-<img src=./devocean.jpg" />
-</a>
+
 <a href="https://twitter.com/songjuhyeon3" target="_blank">
 <img src=" />
 </a>  
-  
-
+ 
+<a href="https://devocean.sk.com/" target="_blank">
+<img src=./devocean.jpg" />
+</a>
 
 
 ### 롤티어도 아이언, 깃도 아이언인 송주현이라고 합니다.

@@ -1,10 +1,10 @@
-## Projects
+## Favorite Projects
   
   * [Vulkan-Lerning-Curve](https://github.com/DevGolbang/vulkan_tutorial)
   * [Rust Impl. of RT-In-OneWeekend Without External Lib](https://github.com/DevGolbang/RayTracingInOneWeekend-Rust)
   * [Impl. Of Regression In Raw C-style Pointer](https://github.com/DevGolbang/Golbang-DNN) 
 
-## Resources
+## Recommended Resources
   
   * ### Design & Frontend
   
@@ -56,7 +56,7 @@
   
 </div> 
   
-## Education
+## My Education
 
 <div align="left" >
   
@@ -70,7 +70,7 @@
 </div> 
   
   
-## Community
+## My Community
 
 <div align="left"> 
   

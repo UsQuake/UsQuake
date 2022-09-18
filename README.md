@@ -1,4 +1,4 @@
-## Favorite Lang.
+## Language
 
 <div align="Left">  
 <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/" target="_blank">
@@ -15,7 +15,7 @@
   
 </div> 
   
-## Edu.
+## Education
 
 <div align="left" >
   

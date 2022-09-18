@@ -4,13 +4,12 @@
 <a href="https://devocean.sk.com/" target="_blank">
 <img src="devocean.jpg" width=300 height=51 style="margin: 50px" />
 
-<a href="https://knu.ac.kr/" target="_blank">
-<img src="KNU_LOGO.png" width=190 height=51 style="margin: 50px" />
-
+## Academy
+  
 <a href="https://pocu.academy/ko" target="_blank">
 <img src="pocu_logo.png" width=190 height=51 style="margin: 50px" />
 </div> 
-
+  
 ## Projects  
   
   * [Vulkan-Lerning-Curve](https://github.com/DevGolbang/vulkan_tutorial)

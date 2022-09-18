@@ -2,24 +2,7 @@
   
   * [Vulkan-Lerning-Curve](https://github.com/DevGolbang/vulkan_tutorial)
   * [Rust Impl. of RT-In-OneWeekend Without External Lib](https://github.com/DevGolbang/RayTracingInOneWeekend-Rust)
-  * [Impl. Of Regression In Raw C-style Pointer]()
-  
-## Lang
-
-<div align="Left">  
-<a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C# Tutorial In MSDN" height="72" />
-  
-<a href="https://ko.wikipedia.org/wiki/C_%EC%96%B8%EC%96%B4%EC%9D%98_%EB%AC%B8%EB%B2%95" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C doesn't have official docs" height="72" />  
-  
-<a href="https://isocpp.org/get-started" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++ Docs In ISO-CPP" height="72" />  
-  
-<a href="https://doc.rust-lang.org/stable/book/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust Docs In Rust " height="72" />  
-  
-</div>  
+  * [Impl. Of Regression In Raw C-style Pointer]() 
 
 ## Resources
   
@@ -55,6 +38,23 @@
     - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
     - 쉽게 배우는 운영체제
     - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
+  
+## Lang
+
+<div align="Left">  
+<a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C# Tutorial In MSDN" height="72" />
+  
+<a href="https://ko.wikipedia.org/wiki/C_%EC%96%B8%EC%96%B4%EC%9D%98_%EB%AC%B8%EB%B2%95" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C doesn't have official docs" height="72" />  
+  
+<a href="https://isocpp.org/get-started" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++ Docs In ISO-CPP" height="72" />  
+  
+<a href="https://doc.rust-lang.org/stable/book/" target="_blank">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust Docs In Rust " height="72" />  
+  
+</div> 
   
 ## Education
 

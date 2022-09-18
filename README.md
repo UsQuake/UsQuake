@@ -21,27 +21,40 @@
   * [Rust Impl. of RT-In-OneWeekend Without External Lib](https://github.com/DevGolbang/RayTracingInOneWeekend-Rust)
   * [Impl. Of Regression In Raw C-style Pointer]()
   
-## Resources (That I recommend)
+## Resources
   
-  * ### Graphics
-  
-    - [Ray-Tracing In One Weekend](https://raytracing.github.io/books/RayTracingTheNextWeek.html)
-    - [Vulkan Tutorial](https://vulkan-tutorial.com/)
-    - [OpenGL Tutorial](https://opengl-tutorial.org/)
-    - Introduction-3D-Game-Programming-DirectX
-    - 셰이더 프로그래밍 입문
-  
-  * ### System
-  
-    - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
-    - 쉽게 배우는 운영체제
-  
-  * ### Develop
-  
-    - C++ 최적화
+    * ### Develop
+    
+    - [Visual C++를 이용한 디버깅](https://www.youtube.com/watch?v=XVxFoHZXy9U)
     - C++ Primer Plus (6th Edition)
-    - Refactoring: Improving the Design of Existing Code (2nd Edition)
+    - C++ 최적화
+    - [선정 보류중]Refactoring: Improving the Design of Existing Code (2nd Edition) 
+    
+    * ### Graphics
   
+    - 셰이더 프로그래밍 입문
+    - [Ray-Tracing In One Weekend](https://raytracing.github.io/books/RayTracingTheNextWeek.html)
+    - [OpenGL Tutorial](https://opengl-tutorial.org/)
+    - [Vulkan Tutorial](https://vulkan-tutorial.com/)
+    - [MSDN-DirectX12-Sample](https://github.com/microsoft/DirectX-Graphics-Samples)
+    - [NDK-Samples](https://github.com/android/ndk-samples)
+    
+    * ### Hack Computer Science & Engineering
+  
+    - [Computer Science Crash Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+    - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
+    - 쉽게 배우는 운영체제
+    - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
+  
+    * ### Backend
+  
+    - [Diesel(Rust SQL)](https://diesel.rs/)
+    - [Actix(Rust Backend)](https://actix.rs/docs/getting-started/)
+    
+    * ### Design & Frontend
+  
+    - [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
+
 ## Education
 
 <div align="left" >

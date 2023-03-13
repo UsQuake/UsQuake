@@ -27,9 +27,6 @@
 <img style="padding: 100 px" src="KNU_LOGO.png" width=190 height=51 />
 
 </div> 
-  
-  
-## Community
 
 
 ## Resource

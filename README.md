@@ -31,15 +31,9 @@
 
 ## Resource
   
-  * ### Design & Frontend
-  
-    - [Blender Guru(3D Design With Blender)](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
-    - [Nomad Coder(Web Clone Coding)](https://nomadcoders.co/)
-  
   * ### Develop
     
     - [Visual C++를 이용한 디버깅](https://www.youtube.com/watch?v=XVxFoHZXy9U)
-    - C++ Primer Plus (6th Edition)
     - C++ 최적화
     - Refactoring: Improving the Design of Existing Code (2nd Edition)
   
@@ -50,7 +44,6 @@
   
   * ### Graphics
   
-    - 셰이더 프로그래밍 입문
     - [Ray-Tracing In One Weekend](https://raytracing.github.io/books/RayTracingTheNextWeek.html)
     - [OpenGL Tutorial](https://opengl-tutorial.org/)
     - [Vulkan Tutorial](https://vulkan-tutorial.com/)

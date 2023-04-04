@@ -55,7 +55,6 @@
     - [OpenGL Tutorial](https://opengl-tutorial.org/)
     - [Vulkan Tutorial](https://vulkan-tutorial.com/)
     - [MSDN-DirectX12-Sample](https://github.com/microsoft/DirectX-Graphics-Samples)
-    - [NDK-Samples](https://github.com/android/ndk-samples)
   
   * ### Hack Computer Science & Engineering
   

@@ -19,7 +19,7 @@
 
 <div align="left" >
   
-<a href="https://pocu.academy/ko" target="_blank">
+<a href="https://pocu.academy/ko" target="_blank"/>
 <img style="padding: 100 px" src="pocu_logo.png" width=190 height=51 />
 
 

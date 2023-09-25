@@ -29,7 +29,7 @@
 </div> 
 
 
-## Resource where I learned
+## I learned from...
   
   * ### Develop
     

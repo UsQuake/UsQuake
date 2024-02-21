@@ -29,9 +29,9 @@
 </div> 
 
 
-## Knowledge
+## Knowledge-base
   
-  * ### Develop
+  * ### Programming
     
     - [Visual C++를 이용한 디버깅](https://www.youtube.com/watch?v=XVxFoHZXy9U)
     - C++ 최적화
@@ -49,7 +49,7 @@
     - [Vulkan Tutorial](https://vulkan-tutorial.com/)
     - [MSDN-DirectX12-Sample](https://github.com/microsoft/DirectX-Graphics-Samples)
   
-  * ### Hack Computer Science & Engineering
+  * ### Hack
   
     - [Computer Science Crash Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
     - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)

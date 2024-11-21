@@ -25,8 +25,8 @@
 <img style="padding: 100 px" src="KNU_LOGO.png" width=190 height=51 />
 </div> 
 
-  - COMP3200(C++ Unmanaged Programming) PASSED at 2022.09.
-  - COMP3200(C++ Unmanaged Programming) TA at 2022.09 ~ 2022.12.
+  - POCU COMP3200(C++ Unmanaged Programming) PASSED at 2022.09.
+  - POCU COMP3200(C++ Unmanaged Programming) TA at 2022.09 ~ 2022.12.
 
 ## Knowledge-base
   

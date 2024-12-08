@@ -31,7 +31,6 @@
   * ### Backend
   
     - [SQLX(SQL on rust)](https://github.com/launchbadge/sqlx)
-    - [Actix(rusty backend)](https://actix.rs/docs/getting-started/)
     - [Building a container from scratch in Go](https://www.youtube.com/watch?v=Utf-A4rODH8)
     - [Tokio(rusty asynchronous implementation)](https://tokio.rs/)
   

@@ -13,6 +13,13 @@
 
 ## Knowledge-base
 
+  * ### Computer Science
+  
+    - [Computer Science Crash Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
+    - 쉽게 배우는 운영체제
+    - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
+    - [Writing an OS in Rust](https://os.phil-opp.com/ko/)
+      
   * ### Hack
     
     - [V8 monolith build options](https://github.com/newkjs/v8-monolith-builds)
@@ -44,13 +51,6 @@
     - [OpenGL Tutorial](https://opengl-tutorial.org/)
     - [Vulkan Tutorial](https://vulkan-tutorial.com/)
     - [MSDN-DirectX12-Sample](https://github.com/microsoft/DirectX-Graphics-Samples)
-  
-  * ### Computer Science
-  
-    - [Computer Science Crash Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
-    - 쉽게 배우는 운영체제
-    - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
-    - [Writing an OS in Rust](https://os.phil-opp.com/ko/)
 
     
 

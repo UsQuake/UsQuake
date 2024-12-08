@@ -1,13 +1,13 @@
 ## Education
 
-<div align="left" >
-<a href="https://pocu.academy/ko" target="_blank"/>
-<img style="padding: 100 px" src="pocu_logo.png" width=190 height=51 />
-
 <a href="https://knu.ac.kr/" target="_blank">
 <img style="padding: 100 px" src="KNU_LOGO.png" width=190 height=51 />
 </div> 
 
+<div align="left" >
+<a href="https://pocu.academy/ko" target="_blank"/>
+<img style="padding: 100 px" src="pocu_logo.png" width=190 height=51 />
+ 
 ## Knowledge-base
 
   * ### Computer Science

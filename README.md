@@ -34,6 +34,7 @@
   
     - [SQLX(SQL on rust)](https://github.com/launchbadge/sqlx)
     - [Actix(Rust Backend)](https://actix.rs/docs/getting-started/)
+    - [Building a container from scratch in Go](https://www.youtube.com/watch?v=Utf-A4rODH8)
   
   * ### Graphics
   

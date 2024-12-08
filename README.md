@@ -38,6 +38,13 @@
     - 동시성 프로그래밍 : Rust, C, 어셈블리어로 구현하며 배우는 동시성 프로그래밍 A to Z
     - C++ 최적화
     - Refactoring: Improving the Design of Existing Code (2nd Edition)
+      
+  * ### AI
+
+    - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+    - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=tkQTUXFrtItrJQEG)
+    - 트랜스포머를 활용한 자연어 처리
+    - [Q&A with RAG with Langchain](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
   
   * ### Backend
   

@@ -33,8 +33,9 @@
   * ### Backend
   
     - [SQLX(SQL on rust)](https://github.com/launchbadge/sqlx)
-    - [Actix(Rust Backend)](https://actix.rs/docs/getting-started/)
+    - [Actix(rusty backend)](https://actix.rs/docs/getting-started/)
     - [Building a container from scratch in Go](https://www.youtube.com/watch?v=Utf-A4rODH8)
+    - [Tokio(rusty asynchronous implementation)](https://tokio.rs/)
   
   * ### Graphics
   
@@ -43,7 +44,7 @@
     - [Vulkan Tutorial](https://vulkan-tutorial.com/)
     - [MSDN-DirectX12-Sample](https://github.com/microsoft/DirectX-Graphics-Samples)
   
-  * ### Hack
+  * ### Computer Science
   
     - [Computer Science Crash Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
     - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)

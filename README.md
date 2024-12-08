@@ -32,7 +32,7 @@
   
   * ### Backend
   
-    - [Diesel(Rust SQL)](https://diesel.rs/)
+    - [SQLX(SQL on rust)](https://github.com/launchbadge/sqlx)
     - [Actix(Rust Backend)](https://actix.rs/docs/getting-started/)
   
   * ### Graphics

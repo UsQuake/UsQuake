@@ -8,8 +8,8 @@
 <img style="padding: 100 px" src="KNU_LOGO.png" width=190 height=51 />
 </div> 
 
-  - POCU COMP3200(C++ unmanaged programming) PASSED at 2022.09.
-  - POCU COMP3200(C++ unmanaged programming) TA at 2022.09 ~ 2022.12.
+  - POCU COMP3200(C++) PASSED at 2022.09.
+  - POCU COMP3200(C++) TA at 2022.09 ~ 2022.12.
 
 ## Knowledge-base
 

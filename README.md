@@ -49,6 +49,7 @@
     - 쉽게 배우는 운영체제
     - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
     - [Writing an OS in Rust](https://os.phil-opp.com/ko/)
+    - [Write a JVM(Java Virtual Machine) GC(Garbage Collector) from scratch](https://shipilev.net/jvm/diy-gc/)
 
     
 

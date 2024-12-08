@@ -36,7 +36,7 @@
 
   * ### Programming
 
-    - [C++ unmanaged programming(Full course, TA)](https://pocu.academy/ko/Courses/COMP3200)
+    - [POCU COMP3200: C++ unmanaged programming(Full course, TA)](https://pocu.academy/ko/Courses/COMP3200)
     - [Visual C++를 이용한 디버깅](https://www.youtube.com/watch?v=XVxFoHZXy9U)
     - 동시성 프로그래밍 : Rust, C, 어셈블리어로 구현하며 배우는 동시성 프로그래밍 A to Z
     - C++ 최적화

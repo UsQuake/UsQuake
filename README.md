@@ -13,14 +13,18 @@
 
 ## Knowledge-base
 
-  * ### Hack(Software dynamic analysis)
-
+  * ### Hack
+    
     - [V8(Chrome JS-WASM engine) monolith build options](https://github.com/newkjs/v8-monolith-builds)
     - [Write a JVM(Java Virtual Machine) GC(Garbage Collector) from scratch](https://shipilev.net/jvm/diy-gc/)
     - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
+      
+  * ### Software dynamic analysis
+
     - [AFL(Fuzzer)++](https://aflplus.plus/)
     - [Greybox Fuzzing for Concurrency Testing](https://dl.acm.org/doi/10.1145/3620665.3640389)
     - [Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-junjie)
+    - [Deep Differential Testing of JVM Implementations](https://ieeexplore.ieee.org/document/8811957)
       
   * ### Programming
     

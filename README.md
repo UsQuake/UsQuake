@@ -1,3 +1,10 @@
+## Hack
+
+    - [V8(Chrome JS-WASM engine) monolith build options](https://github.com/newkjs/v8-monolith-builds)
+    - [Write a JVM(Java Virtual Machine) GC(Garbage Collector) from scratch](https://shipilev.net/jvm/diy-gc/)
+    - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
+    - [AFL(Fuzzer)++](https://aflplus.plus/)
+
 ## Language
 
 <div align="Left">  
@@ -47,11 +54,9 @@
   * ### Computer Science
   
     - [Computer Science Crash Course](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye)
-    - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
     - 쉽게 배우는 운영체제
     - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
     - [Writing an OS in Rust](https://os.phil-opp.com/ko/)
-    - [Write a JVM(Java Virtual Machine) GC(Garbage Collector) from scratch](https://shipilev.net/jvm/diy-gc/)
 
     
 

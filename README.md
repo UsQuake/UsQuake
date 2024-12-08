@@ -1,15 +1,3 @@
-
-## Language
-
-<div align="Left">  
-<a href="https://isocpp.org/get-started" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++ Docs In ISO-CPP" height="72" />  
-  
-<a href="https://doc.rust-lang.org/stable/book/" target="_blank">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust Docs In Rust " height="72" />  
-  
-</div> 
-  
 ## Education
 
 <div align="left" >

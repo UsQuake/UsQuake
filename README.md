@@ -8,9 +8,6 @@
 <img style="padding: 100 px" src="KNU_LOGO.png" width=190 height=51 />
 </div> 
 
-  - POCU COMP3200(C++) PASSED at 2022.09.
-  - POCU COMP3200(C++) TA at 2022.09 ~ 2022.12.
-
 ## Knowledge-base
 
   * ### Computer Science
@@ -29,10 +26,10 @@
   * ### Software dynamic analysis
 
     - [AFL(Fuzzer)++](https://aflplus.plus/)
-    - [Fuzzing JavaScript Engines with Aspect-preserving Mutation](https://taesoo.kim/pubs/2020/park:die.pdf)
-    - [Greybox Fuzzing for Concurrency Testing](https://dl.acm.org/doi/10.1145/3620665.3640389)
-    - [Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-junjie)
     - [Deep Differential Testing of JVM Implementations](https://ieeexplore.ieee.org/document/8811957)
+    - [Fuzzing JavaScript Engines with Aspect-preserving Mutation](https://taesoo.kim/pubs/2020/park:die.pdf)
+    - [Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-junjie)
+    - [Greybox Fuzzing for Concurrency Testing](https://dl.acm.org/doi/10.1145/3620665.3640389)
 
   * ### Programming
 

@@ -15,9 +15,9 @@
 
   * ### Hack
     
-    - [V8(Chrome JS-WASM engine) monolith build options](https://github.com/newkjs/v8-monolith-builds)
-    - [Write a JVM(Java Virtual Machine) GC(Garbage Collector) from scratch](https://shipilev.net/jvm/diy-gc/)
-    - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
+    - [V8 monolith build options](https://github.com/newkjs/v8-monolith-builds)
+    - [Write a JVM GC from scratch](https://shipilev.net/jvm/diy-gc/)
+    - [Visual studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
       
   * ### Software dynamic analysis
 

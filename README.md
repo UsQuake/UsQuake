@@ -29,10 +29,11 @@
   * ### Software dynamic analysis
 
     - [AFL(Fuzzer)++](https://aflplus.plus/)
+    - [Fuzzing JavaScript Engines with Aspect-preserving Mutation](https://taesoo.kim/pubs/2020/park:die.pdf)
     - [Greybox Fuzzing for Concurrency Testing](https://dl.acm.org/doi/10.1145/3620665.3640389)
     - [Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-junjie)
     - [Deep Differential Testing of JVM Implementations](https://ieeexplore.ieee.org/document/8811957)
-      
+
   * ### Programming
     
     - [Visual C++를 이용한 디버깅](https://www.youtube.com/watch?v=XVxFoHZXy9U)

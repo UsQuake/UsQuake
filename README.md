@@ -1,9 +1,3 @@
-## Hack
-
-    - [V8(Chrome JS-WASM engine) monolith build options](https://github.com/newkjs/v8-monolith-builds)
-    - [Write a JVM(Java Virtual Machine) GC(Garbage Collector) from scratch](https://shipilev.net/jvm/diy-gc/)
-    - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
-    - [AFL(Fuzzer)++](https://aflplus.plus/)
 
 ## Language
 
@@ -30,7 +24,16 @@
   - POCU COMP3200(C++ Unmanaged Programming) TA at 2022.09 ~ 2022.12.
 
 ## Knowledge-base
-  
+
+  * ### Hack
+
+    - [V8(Chrome JS-WASM engine) monolith build options](https://github.com/newkjs/v8-monolith-builds)
+    - [Write a JVM(Java Virtual Machine) GC(Garbage Collector) from scratch](https://shipilev.net/jvm/diy-gc/)
+    - [Visual Studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
+    - [AFL(Fuzzer)++](https://aflplus.plus/)
+    - [Greybox Fuzzing for Concurrency Testing](https://dl.acm.org/doi/10.1145/3620665.3640389)
+    - [Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-junjie)
+      
   * ### Programming
     
     - [Visual C++를 이용한 디버깅](https://www.youtube.com/watch?v=XVxFoHZXy9U)

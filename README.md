@@ -12,7 +12,7 @@
 
 ## Knowledge-base
 
-  * ### Computer Science
+  * ### Operating System
  
     - [Windows Internals (7th Edition)](https://learn.microsoft.com/en-us/sysinternals/resources/windows-internals)
     - [Writing an OS in Rust](https://os.phil-opp.com/ko/)
@@ -21,13 +21,13 @@
     
     - [V8 monolith build options](https://github.com/newkjs/v8-monolith-builds)
     - [Write a JVM GC from scratch](https://shipilev.net/jvm/diy-gc/)
-    - [Visual studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
       
-  * ### Software dynamic analysis
+  * ### Software Engineering
 
     - [Deep Differential Testing of JVM Implementations](https://ieeexplore.ieee.org/document/8811957)
     - [Oracle-Enhanced Fuzzing for JavaScript Engine JIT Compiler](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-junjie)
     - [Greybox Fuzzing for Concurrency Testing](https://dl.acm.org/doi/10.1145/3620665.3640389)
+    - [Visual studio를 이용한 어셈블리어 학습](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
       
   * ### AI
 

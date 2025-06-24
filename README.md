@@ -1,4 +1,4 @@
-# Knowledge-base
+# Knowledge Baseline
 
   * ## Operating System
  
@@ -17,16 +17,17 @@
       
   * ## AI
 
-    + ### Deep Learning
-      
-      - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=tkQTUXFrtItrJQEG)
-      - [Q&A with RAG with Langchain](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
-
     + ### Machine Intelligence
       
       - [JEPA: Advanced Machine Intelligence](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)
       - [V-JEPA2: Implementation of AMI](https://ai.meta.com/vjepa/)
-      
+    
+    + ### Deep Learning
+      - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=tkQTUXFrtItrJQEG)
+    
+    + ### Large Language Model
+      - [Q&A with RAG with Langchain](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
+
   * ## Graphics
   
     - [Ray-Tracing In One Weekend](https://raytracing.github.io/books/RayTracingTheNextWeek.html)

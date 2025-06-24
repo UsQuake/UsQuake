@@ -22,7 +22,7 @@
       - [Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=tkQTUXFrtItrJQEG)
       - [Q&A with RAG with Langchain](https://python.langchain.com/v0.1/docs/use_cases/question_answering/)
 
-    + ### Pattern Recognition & machine intelligence
+    + ### Machine Intelligence
       
       - [JEPA: Advanced Machine Intelligence](https://ai.meta.com/research/publications/revisiting-feature-prediction-for-learning-visual-representations-from-video/)
       - [V-JEPA2: Implementation of AMI](https://ai.meta.com/vjepa/)

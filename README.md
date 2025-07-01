@@ -1,4 +1,4 @@
-## Hi👋! I'm a dreaming student *😎* !
+## Hi👋! I'm a pattern & bug ⛏ miner of software *😎* !
 ### I like any native languages😘 and ***hacky things..*** ~~(e.g GC, VM, OS,..)~~ 💜💙.
 ### I hope to contribute to open-source..🙏 one-day..🙏🙏
 ### I'm not good at coding as much as you..😂

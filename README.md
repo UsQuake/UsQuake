@@ -9,8 +9,5 @@ My work focuses on:
 - **Execution-time consistency analysis across system layers**
 - **Representation-driven analysis for systems and ML**
 
-I’m interested in turning patterns of  complex behaviors into reliable representations
-that improve both efficiency and consistency.
-    
-
-
+I'm interested in turning complex behavioral patterns into reliable
+representations that improve both efficiency and system consistency.

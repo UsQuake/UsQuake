@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ssong
 
-I study how system execution and model structure can be **represented,
+I study how system can be **represented,
 maintained, and analyzed**.  
 My work focuses on:
 

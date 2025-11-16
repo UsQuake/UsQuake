@@ -6,12 +6,12 @@ My work focuses on:
 
 - **Runtime memory management & consistency** across heterogeneous accelerators  
 - **IR-based translation and pipeline-level understanding**  
-- **Execution-time consistency analysis across system layers**  
+- ⏱️ **Execution-time consistency analysis across system layers**  
 - **Self-supervised representation learning for IR and system behavior analysis**
 
-## Recently, I've been examining
+## ⏱️ Recent Focus: System-level Execution Flow Representation
 
-**execution flows encountered during
+I've been examining **execution flows encountered during
 system-level integration work**, converting rendering and compute behaviors into
 **graph-structured representations** for deeper analysis.
 

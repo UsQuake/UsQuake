@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Ssong
 
-I study how system can be **represented,
+I study how ⚙ system can be **represented,
 maintained, and analyzed**.  
 My work focuses on:
 
 - **Runtime memory management & consistency** across heterogeneous accelerators  
 - **IR-based translation and pipeline-level understanding**  
-- ⏱️ **Execution-time consistency analysis across system layers**  
+- **Execution-time consistency analysis across system layers**  
 - **Self-supervised representation learning for IR and system behavior analysis**
 
 ## ⏱️ Recent Focus: System-level Execution Flow Representation

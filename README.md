@@ -6,7 +6,7 @@ My work focuses on:
 
 - **Runtime memory management & consistency**
 - **IR-level representation and lightweight program summarization**
-- **Execution-time consistency analysis across software layers**
+- **Execution-time consistency analysis across system layers**
 - **Representation-driven analysis for systems and ML**
 
 I’m interested in turning patterns of  complex behaviors into reliable representations

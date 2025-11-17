@@ -5,7 +5,7 @@ maintained, and analyzed**.
 
 ## 😆 I'm interested in:
 
-- **Runtime memory management & consistency** across I/O devices 
+- **Runtime memory management & consistency** across devices 
 - **IR-based translation and pipeline-level understanding**  
 - ⏱️ **Execution-time consistency analysis across system layers**  
 - **Self-supervised representation learning for IR and system behavior analysis**

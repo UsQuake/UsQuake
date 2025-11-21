@@ -19,7 +19,7 @@ maintained, and analyzed**.
 I’m exploring how system-level execution (rendering, compute, drivers) forms graph-structured, particle-like dynamics:
 
  - turning complex behaviors into DAG-like flow representations
- - identifying stability, invariance, and convergence patterns
- - treating IR + runtime patterns like a tiny physical world we can model
+ - testing metamorphic stability, invariance, and convergence patterns
+ - treating IR + runtime patterns like a tiny dynamic system we can model
 
 Ultimately, I’m trying to represent “how a system moves” —not just what it computes.

@@ -6,7 +6,7 @@ maintained, and analyzed**.
 ## 😆 I'm interested in:
 
 - **Runtime [memory management](https://shipilev.net/jvm/diy-gc/) & consistency** across devices 
-- **IR-based translation and [pipeline-level understanding](https://www.youtube.com/watch?v=B8xHWwCuxKA&list=PL980gcR1LE3IwpeihtCRVFK6maXqBb6AN)**  
+- **[IR-based translation](https://github.com/hzfsls/evo-c2rust-v2) and [pipeline-level understanding](https://www.youtube.com/watch?v=B8xHWwCuxKA&list=PL980gcR1LE3IwpeihtCRVFK6maXqBb6AN)**  
 - ⏱️ **Execution-time consistency analysis across system layers**  
 - **[Self-supervised representation learning](https://www.youtube.com/watch?v=AfqWt1rk7TE) for IR and [system(physical world)](https://ai.meta.com/vjepa/)behavior analysis**
 

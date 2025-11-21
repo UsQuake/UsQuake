@@ -11,7 +11,7 @@ maintained, and analyzed**.
   + Understanding compute/graphic pipelines as state transitions, not code.
 - ⏱️ **[Execution-time consistency analysis](https://www.cs.columbia.edu/~rgu/publications/cav18-yuan.pdf) across system layers**
   + Seeing timing, ordering, and side-effects as structural invariants.
-- 🌊 **[Self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE) for IR and [(dynamic)system](https://github.com/CubbyFlow/CubbyFlow) analysis**
+- 🌊 **[Self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE) for IR and [(dynamic)system-flow](https://github.com/CubbyFlow/CubbyFlow) analysis**
   + Using ML to understand how a given system flows(runs) and evolve rather than existing representation.
 
 ## 🧩 Current Focus — Execution as World Model 

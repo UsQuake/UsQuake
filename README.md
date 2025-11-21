@@ -8,7 +8,7 @@ maintained, and analyzed**.
 - **Runtime memory management & consistency** across devices 
 - **IR-based translation and pipeline-level understanding**  
 - ⏱️ **Execution-time consistency analysis across system layers**  
-- **[Self-supervised representation learning](https://www.youtube.com/watch?v=AfqWt1rk7TE) for IR and system behavior analysis**
+- **[Self-supervised representation learning](https://www.youtube.com/watch?v=AfqWt1rk7TE) for IR and [system(physical world)](https://ai.meta.com/vjepa/)behavior analysis**
 
 ## ⏱️ Recent Focus: System-level Execution Flow Representation  
 

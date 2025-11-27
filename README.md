@@ -8,9 +8,6 @@ maintained, and analyzed**.
 - 🧱 **Runtime [memory management](https://shipilev.net/jvm/diy-gc/) & [shared memory consistency](https://dl.acm.org/doi/abs/10.1145/3620665.3640389)** across devices
   + How computation stays correct across layers, devices, and schedules.
 - 🔁 **[IR/Metadata based translation](https://github.com/hzfsls/evo-c2rust-v2) and [pipeline-level understanding](https://docs.mesa3d.org/drivers/llvmpipe.html)**
-- ![Image](https://github.com/user-attachments/assets/8b869779-1f9d-48e4-9ac7-504b755a8b57)
-- ![Image](https://github.com/user-attachments/assets/62dc464e-8e7b-44c7-b3c9-231f7b8d2e85)
-- ![Image](https://github.com/user-attachments/assets/623228c9-1b22-4763-bf17-a3b1d433ce14)
   + Understanding compute/graphic pipelines as state transitions, not code.
 - ⚙️ **[Execution consistency analysis](https://www.cs.columbia.edu/~rgu/publications/cav18-yuan.pdf) across system layers**
   + Seeing timing, ordering, and side-effects as structural invariants.

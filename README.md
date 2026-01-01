@@ -17,8 +17,6 @@ maintained, and analyzed**.
 ## 🧩 I'm currently focusing on:
 
 I’m researching how to debug game:
-
- - <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/53dda137-5951-4247-adf4-9366fafa642b" />
  - Automation of debugging GPU compiler during lowering.
  - Extraction of glitches with VLMs.
  - Encode framebuffer with abstraction(hashing, encoding, metadata).

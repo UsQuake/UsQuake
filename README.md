@@ -17,6 +17,6 @@ maintained, and analyzed**.
 ## 🧩 I'm currently focusing on:
 
 I’m researching how to debug game:
- - Automation of debugging GPU compiler during lowering.
- - Extraction of glitches with VLMs.
+ - Automation of debugging **GPU compiler** during lowering.
+ - Extraction of glitches with **VLMs**.
  - Encode framebuffer with abstraction(hashing, encoding, metadata).

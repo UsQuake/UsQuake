@@ -13,7 +13,7 @@ I study how system ⚙️ behavior can be **✏️represented and 🌊flowed**.
 - 📝 **[Self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE)** and **[Evolutionary learning](http://nature.com/articles/s42256-020-00267-x)**
   + Using ML to understand how a given system flows(runs) and evolve rather than existing representation.
 
-## 🧩 I'm currently focusing on:
+## 🤔 I'm currently focusing on:
 
 I’m researching how to debug game:
  - Automation of debugging **GPU compiler** during lowering.

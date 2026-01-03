@@ -8,7 +8,7 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
   + How computation stays correct across registers, caches, and memories.
 - 🔤 ➡ 🈯️ **[Code translation](https://github.com/hzfsls/evo-c2rust-v2)** with abstraction.
   + Understanding compute pipelines as metadata, not direct code.
-- (﹙˓ 📶 ˒﹚) **[Communication signaling](https://www.nature.com/articles/s41467-025-57183-0)** across system layers.
+- (﹙˓ 📶 ˒﹚) **[Communications](https://www.nature.com/articles/s41467-025-57183-0)** between system layers.
   + Seeing timing, ordering, and side-effects as structural invariants.
 - 📝 **[Self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE)** and 🦠 **[Evolutionary learning](http://nature.com/articles/s42256-020-00267-x)**
   + Using ML to understand how a given system flows(runs) and evolve rather than existing representation.

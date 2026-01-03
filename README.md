@@ -15,7 +15,7 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
 
 ### 🤔 I'm currently focusing on:
 
-I’m researching how to debug game:
+I’m researching ***how to debug game***:
  - Automation of debugging **GPU compiler** during lowering.
  - Extraction of glitches with **VLMs**.
  - Encode framebuffer with **abstraction** methods(hashing, encoding, metadata).

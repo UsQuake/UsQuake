@@ -6,7 +6,7 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
 
 - ⚙️ **Runtime [memory management](https://shipilev.net/jvm/diy-gc/) & [shared memory consistency](https://dl.acm.org/doi/abs/10.1145/3620665.3640389)** across devices.
   + How computation stays correct across layers, devices, and schedules.
-- 🔁 **[Code translation](https://github.com/hzfsls/evo-c2rust-v2)** with abstraction.
+- 🔤 ➡ 🈯️ **[Code translation](https://github.com/hzfsls/evo-c2rust-v2)** with abstraction.
   + Understanding compute pipelines as metadata, not direct code.
 - (﹙˓ 📶 ˒﹚) **[Communication signaling](https://www.nature.com/articles/s41467-025-57183-0)** across system layers.
   + Seeing timing, ordering, and side-effects as structural invariants.

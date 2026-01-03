@@ -4,7 +4,7 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
 
 ### 😆 I'm interested in:
 
-- ⚙️ **Runtime [memory management](https://shipilev.net/jvm/diy-gc/) & [shared memory consistency](https://dl.acm.org/doi/abs/10.1145/3620665.3640389)** across devices.
+- ⚙️ **Runtime [memory management](https://shipilev.net/jvm/diy-gc/) & [shared memory consistency](https://dl.acm.org/doi/abs/10.1145/3620665.3640389)** across storage media.
   + How computation stays correct across registers, caches, and memories.
 - 🔤 ➡ 🈯️ **[Code translation](https://github.com/hzfsls/evo-c2rust-v2)** with abstraction.
   + Understanding compute pipelines as metadata, not direct code.

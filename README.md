@@ -10,7 +10,7 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
   + Understanding compute pipelines as metadata, not direct code.
 - (﹙˓ 📶 ˒﹚) **[Communications](https://www.nature.com/articles/s41467-025-57183-0)** between system layers.
   + Seeing timing, ordering, and side-effects as structural invariants.
-- 📝 **[Self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE)** and 🦠 **[Evolutionary learning](http://nature.com/articles/s42256-020-00267-x)**
+- 📝 **[Self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE)** and 🦠 **[evolutionary learning](http://nature.com/articles/s42256-020-00267-x)**
   + Using ML to understand how a given system flows(runs) and evolve rather than existing representation.
 
 ### 🤔 I'm currently focusing on:

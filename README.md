@@ -5,7 +5,7 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
 ### 😆 I'm interested in:
 
 - 💾 how to make machine memorize.
-  + like, ⚙️ **runtime [memory management](https://shipilev.net/jvm/diy-gc/) & [shared memory consistency](https://dl.acm.org/doi/abs/10.1145/3620665.3640389)** across memorization(cache, storages, media) systems.
+  + like, ⚙️ **runtime [memory management](https://shipilev.net/jvm/diy-gc/) & [shared memory consistency](https://dl.acm.org/doi/abs/10.1145/3620665.3640389)** across memorization(cache, memory, storage media) systems.
 - (﹙˓ 📶 ˒﹚) how to make machine communicates. 
   + like, web-based specification, compilation/transpilation between PLs, [interfaces between 🧠 brain and 🤖 turing-machines](https://www.nature.com/articles/s41467-025-57183-0).
 - how to make machine learn representation and evolve itself without ***generative AIs***.

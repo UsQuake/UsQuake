@@ -4,12 +4,12 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
 
 ### 😆 I'm interested in:
 
-- 💾 how to make system memorize.
+- how to make system 💾 memorize.
   + like, ⚙️ **runtime [memory management](https://shipilev.net/jvm/diy-gc/) & [shared memory consistency](https://dl.acm.org/doi/abs/10.1145/3620665.3640389)** across memorization(cache, memory, storage media) systems.
-- (﹙˓ 📶 ˒﹚) how to make system communicates. 
+- how to make system (﹙˓ 📶 ˒﹚) communicates. 
   + like, web-based specification, compilation/transpilation between PLs, [interfaces between 🧠 brain and 🤖 turing-machines](https://www.nature.com/articles/s41467-025-57183-0).
-- how to make system learn representation and evolve itself.
-  + like, 📝 **[self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE)** and 🦠 **[evolutionary learning](http://nature.com/articles/s42256-020-00267-x)**.
+- how to make system 📝 learn 🔡 representation and 🦠 evolve itself.
+  + like,  **[self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE)** and **[evolutionary learning](http://nature.com/articles/s42256-020-00267-x)**.
 
 ### 🤔 I'm currently focusing on:
 

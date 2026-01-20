@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ssong
 
-I study how system is *✏️ represented*, *💯 tested*, and *🌊 flowed*.
+I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, *🌊 flowed*, *🧹 erased*, and *✊ evolved*.
 
 ### 😆 I'm interested in:
 

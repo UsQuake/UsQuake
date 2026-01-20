@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ssong
 
-I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
+I study how system is *✏️ represented*, *💯 tested*, and *🌊 flowed*.
 
 ### 😆 I'm interested in:
 

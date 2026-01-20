@@ -9,7 +9,7 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 - how to make system learn 🔡 representation and 🦠 evolution itself.
   + like,  **[🔁 self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE)** & **[🌱 evolutionary learning](http://nature.com/articles/s42256-020-00267-x)**.
 - how to make system (﹙˓ 📶 ˒﹚) communicates.  
-  + like, [***🤝 protocols*** for PL](https://protobuf.dev/) and [memory-mapped ***🔌 in and out***](https://dl.acm.org/doi/abs/10.1145/3620665.3640389).
+  + like, [***🤝 protocols*** for PL/web](https://protobuf.dev/) and [memory-mapped ***🔌 in and out***](https://dl.acm.org/doi/abs/10.1145/3620665.3640389).
 - how to make system 💯 tests one another and 🔧 & 📌 fix with 💾 memorization itself.
   + like, [kleene's **📌 fix-point** theorem](https://ropas.snu.ac.kr/~kwang/520/readings/absint/Cousot-JLC-1992.pdf) & [***❗ human-feedback*** reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf).
 - how to make system 🎲 simulates & 🗣️ interprets internally.

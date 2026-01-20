@@ -4,7 +4,7 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
 
 ### 😆 I'm interested in:
 
-- how to make system 🗑️ forget.
+- how to make system learn 🗑️ forgetting *❗ what is not important*.
   + like, [**♻ garbage collection**](https://shipilev.net/jvm/diy-gc/) & [***👉 attention***-based denoiser](https://youtu.be/kCc8FmEb1nY?si=DmsWCjYfrLV4491N).
 - how to make system learn 🔡 representation and 🦠 evolution itself.
   + like,  **[🔁 self-supervised learning](https://www.youtube.com/watch?v=AfqWt1rk7TE)** & **[🌱 evolutionary learning](http://nature.com/articles/s42256-020-00267-x)**.

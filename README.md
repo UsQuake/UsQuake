@@ -18,6 +18,6 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 
 ### 🤔 I'm currently focusing on:
 
-I'm researching ***how to 🛠️ debug 🖼️ GUI-apps(like, 🌐 web-browsers, >_ terminal-emulators and 🕹️ games).***:
+I'm researching ***how to 💯 test 🖼️ GUI-apps(like, 🌐 web-browsers, >_ terminal-emulators and 🕹️ games).***:
  - Implementing 🔴 record & ▶ replay with RenderDoc-like techs.
  - Encoding 🎬 framebuffer with **🌀 abstraction** methods like ⌗ hashing.

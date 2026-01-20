@@ -16,6 +16,6 @@ I study how system ⚙️ behavior can be ✏️*represented* and 🌊*flowed*.
 
 ### 🤔 I'm currently focusing on:
 
-I'm researching ***how to 🛠️ debug 🎨 visualized systems(GUI-apps, browsers, terminal-emulators and games)***:
+I'm researching ***how to 🛠️ debug 🎨 visual systems(GUI-apps, browsers, terminal-emulators and games)***:
  - Implementing 🔴 record & ▶ replay with RenderDoc-like techs.
  - Encoding 🎬 framebuffer with **abstraction** methods like hashing.

@@ -11,7 +11,7 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
   + like, [🔁 *self-supervised learning*](https://dl.acm.org/doi/10.1145/3660800)
   + and [🌱 *evolutionary* learning](https://dl.acm.org/doi/pdf/10.1145/3180155.3180160).
 - how to make system (﹙˓ 📶 ˒﹚) communicates.  
-  + like, [*🤝 protocols* for **PL/web**](https://protobuf.dev/)
+  + like, [*🤝 protocols* for different **PLs**](https://protobuf.dev/)
   + and [memory-mapped ***🔌 in and out***](https://dl.acm.org/doi/abs/10.1145/3620665.3640389).
 - how to make system 💯 tests one another and 🔧 & 📌 fix with 💾 memorization itself.
   + like, [kleene's *📌 fix-point* theorem](https://ropas.snu.ac.kr/~kwang/520/readings/absint/Cousot-JLC-1992.pdf)

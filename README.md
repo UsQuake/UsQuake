@@ -8,8 +8,8 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
   + like, [**♻ garbage collection**](https://shipilev.net/jvm/diy-gc/)
   + and [*👉 attention*-based **denoiser**](https://youtu.be/kCc8FmEb1nY?si=DmsWCjYfrLV4491N).
 - how to make system learn 🔡 representation and 🦠 evolution itself.
-  + like, [🔁 self-supervised learning](https://dl.acm.org/doi/10.1145/3660800) for ***log-analysis***
-  + and [🌱 evolutionary learning](https://dl.acm.org/doi/pdf/10.1145/3180155.3180160) for ***software engineering***.
+  + like, [🔁 *self-supervised learning*](https://dl.acm.org/doi/10.1145/3660800)
+  + and [🌱 *evolutionary* learning](https://dl.acm.org/doi/pdf/10.1145/3180155.3180160).
 - how to make system (﹙˓ 📶 ˒﹚) communicates.  
   + like, [*🤝 protocols* for **PL/web**](https://protobuf.dev/)
   + and [memory-mapped ***🔌 in and out***](https://dl.acm.org/doi/abs/10.1145/3620665.3640389).
@@ -22,6 +22,6 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 
 ### 🤔 I'm currently focusing on:
 
-I'm researching ***how to 💯 test 🖼️ GUI-apps(like, 🌐 web-browsers, >_ terminal-emulators and 🕹️ games).***:
+I'm researching ***how to 💯 test 🖼️ GUI-apps(like, 🌐 browsers, >_ terminal-emulators and 🕹️ games).***:
  - Implementing 🔴 record & ▶ replay with RenderDoc-like techs.
  - Encoding 🎬 framebuffer with **🌀 abstraction** methods like ⌗ hashing.

@@ -15,7 +15,7 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
   + and [memory-mapped ***🔌 in and out***](https://dl.acm.org/doi/abs/10.1145/3620665.3640389).
 - how to make system 💯 tests one another and 🔧 & 📌 fix with 💾 memorization itself.
   + like, [kleene's *📌 fix-point* theorem](https://ropas.snu.ac.kr/~kwang/520/readings/absint/Cousot-JLC-1992.pdf)
-  + and [⚖️ differential **💯 testing**](https://github.com/UsQuake/why_wasm_compiler_fuzzing_hard) of native vs WASM interpreters' inconsistency.
+  + and [⚖️ differential **💯 testing**](https://github.com/UsQuake/why_wasm_compiler_fuzzing_hard).
 - how to make system 🎲 simulates & 🗣️ interprets internally.
   + like, [non-generative *🤖 turing-complete* systems](https://www.nature.com/articles/s41467-025-57183-0).
 

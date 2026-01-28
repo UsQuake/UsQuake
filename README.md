@@ -8,8 +8,8 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
   + like, [**♻ garbage collection**](https://shipilev.net/jvm/diy-gc/)
   + and [*👉 attention*-based **denoiser**](https://youtu.be/kCc8FmEb1nY?si=DmsWCjYfrLV4491N).
 - how to make system learn 🔡 representation and 🦠 evolution itself.
-  + like, [🔁 *self-supervised learning*](https://dl.acm.org/doi/10.1145/3660800)
-  + and [🌱 *evolutionary* learning](https://dl.acm.org/doi/pdf/10.1145/3180155.3180160).
+  + like, [🔁 ***self-supervised learning***](https://dl.acm.org/doi/10.1145/3660800)
+  + and [🌱 ***evolutionary*** learning](https://dl.acm.org/doi/pdf/10.1145/3180155.3180160).
 - how to make system (﹙˓ 📶 ˒﹚) communicates.  
   + like, [*🤝 protocols* for different **PLs**](https://protobuf.dev/)
   + and [memory-mapped ***🔌 in and out***](https://dl.acm.org/doi/abs/10.1145/3620665.3640389).
@@ -17,7 +17,7 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
   + like, [kleene's *📌 fix-point* theorem](https://ropas.snu.ac.kr/~kwang/520/readings/absint/Cousot-JLC-1992.pdf)
   + and [⚖️ differential **💯 testing**](https://github.com/UsQuake/why_wasm_compiler_fuzzing_hard).
 - how to make system 🎲 simulates & 🗣️ interprets internally.
-  + like, [non-generative *🤖 turing-complete* systems](https://ai.meta.com/vjepa/).
+  + like, [non-generative ***🤖 turing-complete*** systems](https://ai.meta.com/vjepa/).
 
 
 ### 🤔 I'm currently focusing on:

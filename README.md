@@ -17,7 +17,7 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
   + like, [kleene's *📌 fix-point* theorem](https://ropas.snu.ac.kr/~kwang/520/readings/absint/Cousot-JLC-1992.pdf)
   + and [⚖️ differential **💯 testing**](https://github.com/UsQuake/why_wasm_compiler_fuzzing_hard).
 - how to make system 🎲 simulates & 🗣️ interprets internally.
-  + like, [non-generative ***🤖 turing-complete*** systems](https://ai.meta.com/vjepa/).
+  + like, [non-generative ***🤖 turing-complete*** world models](https://ai.meta.com/vjepa/).
 
 
 ### 🤔 I'm currently focusing on:

@@ -6,9 +6,9 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 
 - how to make system learn 🗑️ forgetting *❗ what is not important*.
   + like, [**♻ garbage collection**](https://shipilev.net/jvm/diy-gc/)
-  + and [*👉 attention*-based **denoiser**](https://youtu.be/kCc8FmEb1nY?si=DmsWCjYfrLV4491N).
+  + and [*👉 attention*-based **denoiser**](https://dl.acm.org/doi/10.1145/3660800).
 - how to make system learn 🔡 representation and 🦠 evolution itself.
-  + like, [🔁 ***self-supervised learning***](https://dl.acm.org/doi/10.1145/3660800)
+  + like, [🔁 ***self-supervised learning***](https://www.youtube.com/watch?v=AfqWt1rk7TE)
   + and [🌱 ***evolutionary*** learning](https://dl.acm.org/doi/pdf/10.1145/3180155.3180160).
 - how to make system (﹙˓ 📶 ˒﹚) communicates.  
   + like, [*🤝 protocols* for different **PLs**](https://protobuf.dev/)

@@ -4,7 +4,7 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 
 ### 😆 I'm interested in:
 
-- how to make system learn 🗑️ forgetting *❗ what is not important*.
+- how to make system learn 🗑️ forgetting.
   + like, [**♻ garbage collection**](https://shipilev.net/jvm/diy-gc/)
   + and [*👉 attention*-based **denoiser**](https://dl.acm.org/doi/10.1145/3660800).
 - how to make system learn 🔡 representation and 🦠 evolution itself.

@@ -24,4 +24,7 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 
 I'm researching ***how to 💯 test 🖼️ GUI-apps(like, 🌐 browsers, >_ terminal-emulators and 🕹️ games).***:
  - Implementing 🔴 record & ▶ replay with RenderDoc-like techs.
+   + gfxreconstruct
+   + ydotool
  - Encoding 🎬 framebuffer with **🌀 abstraction** methods like ⌗ hashing.
+   + ssdeep

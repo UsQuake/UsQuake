@@ -18,6 +18,7 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
   + and [⚖️ differential **💯 testing**](https://github.com/UsQuake/why_wasm_compiler_fuzzing_hard).
 - how to make system 🎲 simulates & 🗣️ interprets internally.
   + like, [***🤖 turing-complete*** world models](https://ai.meta.com/vjepa/).
+  + and [***reasoning & understanding***](https://arxiv.org/pdf/2607.05188).
 
 
 ### 🤔 I'm currently focusing on:

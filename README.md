@@ -29,3 +29,15 @@ I'm researching ***how to 💯 test 🖼️ GUI-apps(like, 🌐 browsers, >_ ter
    + ydotool
  - Encoding 🎬 framebuffer with **🌀 abstraction** methods like ⌗ hashing.
    + ssdeep
+
+### 🏅 Selected Contributions
+
+- 🐧 **Reported and debugged a Linux kernel audio regression**
+  + Reproduced a hard system freeze on an AMD HawkPoint ThinkPad.
+  + Provided `dmesg`, ACPI dumps, hardware traces, and regression-test results.
+  + Verified the offending change through a kernel revert; the issue was resolved with a code fix.
+  + [Bug 221274](https://bugzilla.kernel.org/show_bug.cgi?id=221274)
+
+- 📚 **Reviewed Korean translations for [`phil-opp/blog_os`](https://github.com/phil-opp/blog_os)**
+  + Reviewed the Korean updates in [PR #1500](https://github.com/phil-opp/blog_os/pull/1500).
+  + Identified typos and inaccurate systems terminology related to stack pointers, SIMD instruction sets, and `rust-analyzer`.

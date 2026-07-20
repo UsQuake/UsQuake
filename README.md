@@ -30,9 +30,3 @@ I'm researching ***how to 💯 test 🖼️ GUI-apps(like, 🌐 browsers, >_ ter
  - Encoding 🎬 framebuffer with **🌀 abstraction** methods like ⌗ hashing.
    + ssdeep
 
-### 🌱 Open-source Activity
-
-- Reported and helped diagnose a Linux kernel audio regression on AMD HawkPoint hardware, including reproduction, system logs, ACPI dumps, and revert validation.  
-  [Linux Kernel Bug 221274](https://bugzilla.kernel.org/show_bug.cgi?id=221274)
-
-- Reviewed Korean systems terminology for [`phil-opp/blog_os` PR #1500](https://github.com/phil-opp/blog_os/pull/1500).

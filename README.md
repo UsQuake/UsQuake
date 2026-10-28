@@ -25,6 +25,6 @@ I'm researching ***software engineering over hardware stack.***:
    + [Fuzzers](https://github.com/UsQuake/why_wasm_compiler_fuzzing_hard).
      
  - Modeling and refining physical hardware. 
-   + [Quantum SE](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphaqubit-quantum-error-correction/).
-   + [ML to model intuitive physics](https://www.worldlabs.ai/).
+   + [SE for quantum stack](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphaqubit-quantum-error-correction/).
+   + [ML to abstract physical rules](https://www.worldlabs.ai/).
 

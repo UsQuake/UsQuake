@@ -20,11 +20,11 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 
 I'm researching ***software engineering over hardware stack.***:
 
- - Data-miner to analyze any types of computers.
-   + Analyzer.
-   + Fuzzer.
+ - Data-mining to analyze any types of computers(software & hardware).
+   + [Analyzers](https://ropas.snu.ac.kr/~kwang/520/readings/absint/Cousot-JLC-1992.pdf).
+   + [Fuzzers](https://github.com/UsQuake/why_wasm_compiler_fuzzing_hard).
      
  - Modeling and refining physical hardware. 
-   + Quantum SE.
-   + ML to model physics.
+   + [Quantum SE](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphaqubit-quantum-error-correction/).
+   + [ML to model physical hardwares](https://www.worldlabs.ai/).
 

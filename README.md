@@ -26,5 +26,5 @@ I'm researching ***software engineering over hardware stack.***:
      
  - Modeling and refining physical hardware. 
    + [Quantum SE](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphaqubit-quantum-error-correction/).
-   + [ML to model physical hardwares](https://www.worldlabs.ai/).
+   + [ML to model intuitive physics](https://www.worldlabs.ai/).
 

@@ -18,10 +18,11 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 
 ### 🤔 I'm currently focusing on:
 
-I'm researching ***how to 💯 test 🖼️ GUI-apps(like, 🌐 browsers, >_ terminal-emulators and 🕹️ games).***:
+I'm researching ***software engineering over hardware stack.***:
  - Implementing 🔴 record & ▶ replay with RenderDoc-like techs.
    + gfxreconstruct
    + ydotool
- - Encoding 🎬 framebuffer with **🌀 abstraction** methods like ⌗ hashing.
-   + ssdeep
+ - Stacking quantum computers' software layer. 
+   + qiskit
+   + numpy
 

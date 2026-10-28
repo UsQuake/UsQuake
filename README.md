@@ -19,10 +19,12 @@ I study how system is *✏️ represented*, *🤝 communicated*, *💯 tested*, 
 ### 🤔 I'm currently focusing on:
 
 I'm researching ***software engineering over hardware stack.***:
- - Implementing 🔴 record & ▶ replay with RenderDoc-like techs.
-   + gfxreconstruct
-   + ydotool
- - Stacking quantum computers' software layer. 
-   + qiskit
-   + numpy
+
+ - Data-miner to analyze any types of computers.
+   + Analyzer.
+   + Fuzzer.
+     
+ - Modeling and refining physical hardware. 
+   + Quantum SE.
+   + ML to model physics.
 
